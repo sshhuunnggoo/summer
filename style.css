@@ -1,0 +1,31 @@
+body {
+    background-color: #e0e0ff;
+}
+h1#title1 {
+    color: #ffa8a8;
+}
+ul li {
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+}
+ul li a:hover {
+    text-decoration-line: underline;
+    color: #ffffb7;
+}
+h1#red {
+    color: red;
+}
+h2#title2 {
+    color: #8989ff;
+}
+table tr td {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #7fbfff;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 10px 20px;
+}
